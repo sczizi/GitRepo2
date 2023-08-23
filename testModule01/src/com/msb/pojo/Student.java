@@ -6,4 +6,6 @@ package com.msb.pojo;
  * @date 2023/8/23  11:16
  */
 public class Student {
+    private int age;
+    private String name;
 }
